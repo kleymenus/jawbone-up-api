@@ -1,3 +1,3 @@
 module Jawbone
-  VERSION = "0.0.2".freeze
+  VERSION = "0.4.2"
 end
